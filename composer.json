@@ -1,0 +1,8 @@
+{
+    "name": "potherca/custom-phpunit-test-runner",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^5.6"
+    },
+    "license": "GPL-3.0"
+}
