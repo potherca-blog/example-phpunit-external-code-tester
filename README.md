@@ -1,6 +1,6 @@
 # [Example external code tester (with PHPUnit)](https://github.com/Potherca/example-phpunit-external-code-tester)
 
-[![Project Stage Badge: Experimental][Project Stage Page]
+[![Project Stage Badge: Experimental]][Project Stage Page]
 
 ## Introduction
 
