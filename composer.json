@@ -4,7 +4,7 @@
     "license": "GPL-3.0",
     "require": {
         "phpunit/phpunit": "8.3.4",
-        "league/flysystem": "1.0.53"
+        "league/flysystem": "1.0.54"
     },
     "autoload": {
         "psr-4": {
