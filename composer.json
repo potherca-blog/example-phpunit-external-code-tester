@@ -3,7 +3,7 @@
     "type": "project",
     "license": "GPL-3.0",
     "require": {
-        "phpunit/phpunit": "8.4.1",
+        "phpunit/phpunit": "8.4.3",
         "league/flysystem": "1.0.57"
     },
     "autoload": {
